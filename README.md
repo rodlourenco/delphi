@@ -1,8 +1,7 @@
 # Delphi libraries and helpers
 
 
-DirWatcher.
-
+DirWatcher,
 Library to watch changes in a directory tree
 
 
