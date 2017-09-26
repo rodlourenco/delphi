@@ -1,0 +1,8 @@
+*.class
+*.bak
+*.identcache
+*.local
+*.*~
+*.drc
+*.exe
+*.dcu
