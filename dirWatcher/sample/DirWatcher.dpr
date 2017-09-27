@@ -2,8 +2,8 @@ program DirWatcher;
 
 uses
   Forms,
-  dirWatcherLib in 'dirWatcherLib.pas',
-  MainForm in 'MainForm.pas' {Form2};
+  MainForm in 'MainForm.pas' {Form2},
+  dirWatcherLib in '..\dirWatcherLib.pas';
 
 {$R *.res}
 

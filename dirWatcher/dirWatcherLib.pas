@@ -94,7 +94,7 @@ end;
 
 procedure TDirWatcher.start;
 begin
-  //1 - Verifica se o diretorio inicial é valido, se nao for abort a inicializacao e lança uma exceção
+  //1 - Verifica se o diretorio inicial é valido, se nao for aborta a inicializacao e lança uma exceção
 
   //2 - Inicia o monitoramento do diretório inicial
   startWatcher(initialDir);

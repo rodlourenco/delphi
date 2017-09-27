@@ -64,7 +64,7 @@ begin
   end
   else
   begin
-    FDirWatcher.active := true;
+    FDirWatcher.active := false;
     CheckBox1.Caption := 'Watch';
     DirectoryListBox1.Enabled := true;
   end;

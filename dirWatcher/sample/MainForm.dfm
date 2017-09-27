@@ -42,7 +42,6 @@ object Form2: TForm2
     Height = 375
     Anchors = [akLeft, akTop, akBottom]
     TabOrder = 1
-    ExplicitHeight = 359
   end
   object Memo1: TMemo
     Left = 215
@@ -53,7 +52,5 @@ object Form2: TForm2
     Lines.Strings = (
       'Memo1')
     TabOrder = 2
-    ExplicitWidth = 474
-    ExplicitHeight = 359
   end
 end
