@@ -35,6 +35,7 @@ procedure TForm2.FormCreate(Sender: TObject);
 begin
   DirectoryListBox1.Directory := 'c:\';
 
+
   FDirWatcher := getDirWatcher('', false);
 end;
 
