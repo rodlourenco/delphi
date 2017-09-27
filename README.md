@@ -1,11 +1,12 @@
 Delphi libraries and helpers
 ============================
 
-The main goal is to share useful code that help other to solve usual problems
+The main goal is to share solutions that we create for problems that we do not find a satisfactory and open-source solution.
 
 
 DirWatcher
 ----------
-Library to watch changes in a directory tree
+
+Library to monitor a directory tree and fire an event when any changes occur
 
 
