@@ -105,11 +105,13 @@ begin
   //Inicia monitoramento no diretório atual
 
   //Obtem lista de subdiretórios do diretório atual e inicia monitoriamento nos subdiretórios
+
 end;
 
 procedure TDirWatcher.stop;
 begin
-  //Para todos os monitoramentos de diretórios
+  //Parar todos os monitoramentos de diretórios
+
 end;
 
 function getDirWatcher(const initialDir: string; const start: boolean = true): IDirWatcher;
